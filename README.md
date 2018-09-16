@@ -1,6 +1,6 @@
 # Insertion Sort
 
-Insertion Sort implemented in Go (Golang).
+[Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort) implementation in Go (Golang).
 
 `Time Complexity: O(n^2)`
 
